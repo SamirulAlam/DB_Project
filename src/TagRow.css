@@ -1,0 +1,16 @@
+.tagRow {
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    justify-content:space-between;
+}
+
+.tagRow:hover {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.tagRow>p {
+    margin-left: 20px;
+    font-weight: 600;
+}

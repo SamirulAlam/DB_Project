@@ -1,0 +1,14 @@
+.tag{
+    flex:.33 ;
+}
+
+.tag__heading{
+    margin: 20px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.tag__row{
+    height:40vh;
+    overflow:scroll;
+}

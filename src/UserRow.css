@@ -1,0 +1,16 @@
+.userRow {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.userRow:hover {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.userRow>p {
+    margin-left: 20px;
+    font-weight: 600;
+}
